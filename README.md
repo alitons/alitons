@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Eu sou Aliton Silva de Rio Branco/Ac. Formado em Análise e Desenvolvimento de Sistema, com pós graduação em Engenharia de Software<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">Eu sou Aliton Silva de Rio Branco/Ac. Formado em Análise e Desenvolvimento de Sistema, com pós graduação em Engenharia de Software</p>
 
 ###
 
